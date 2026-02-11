@@ -1,1 +1,1 @@
--XX:+UseZGC -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -Djava.net.preferIPv4Stack=true
+-XX:+UseZGC -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -Djava.net.preferIPv4Stack=true -XX:ZUncommitDelay=600
